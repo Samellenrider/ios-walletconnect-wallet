@@ -23,3 +23,7 @@ DerivedData/
 !default.perspectivev3
 
 Pods/
+
+walletConnectSDK/walletConnectSDK.xcodeproj/project.pbxproj
+
+walletConnectSDK/walletConnectSDK/Info.plist
